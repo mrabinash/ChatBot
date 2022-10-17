@@ -41,12 +41,15 @@ Here are some demos of my Banking Chatbot WebView screenshots are attached below
 
 Opening a bank account.                        
 
+![image](https://user-images.githubusercontent.com/107429918/196238875-b0bacc17-2bcd-4ca3-b8a5-eac1e64e7158.png)
 
 Checking balance.
 
+![image](https://user-images.githubusercontent.com/107429918/196238916-33e372fe-eec0-4964-bf10-da6689a1b83c.png)
 
 Transferring money.                      
 
+![image](https://user-images.githubusercontent.com/107429918/196239053-7d9f945b-6198-4516-a2b4-d692d7a0824d.png)
 
 Processing transaction successfully.
 

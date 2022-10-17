@@ -39,25 +39,27 @@ Here are some demos of my Banking Chatbot WebView screenshots are attached below
 
 ![image](https://user-images.githubusercontent.com/107429918/196230520-511a3cd4-e964-4ce9-a5b1-d21e59460d2a.png)
 
-Opening a bank account.                        
+## Opening a bank account.                        
 
 ![image](https://user-images.githubusercontent.com/107429918/196238875-b0bacc17-2bcd-4ca3-b8a5-eac1e64e7158.png)
 
-Checking balance.
+## Checking balance.
 
 ![image](https://user-images.githubusercontent.com/107429918/196238916-33e372fe-eec0-4964-bf10-da6689a1b83c.png)
 
-Transferring money.                      
+## Transferring money.                      
 
 ![image](https://user-images.githubusercontent.com/107429918/196239053-7d9f945b-6198-4516-a2b4-d692d7a0824d.png)
 
-Processing transaction successfully.
+## Processing transaction successfully.
 
+![image](https://user-images.githubusercontent.com/107429918/196239625-f3b9f51f-72d1-4b44-8817-c206022daf4d.png)
 
-Checking due date of my Credit Card.
+## Checking due date of my Credit Card.
 
+![image](https://user-images.githubusercontent.com/107429918/196239669-bb3704d0-07bf-4a2e-959b-9262f6698be8.png)
 
-General Conversations.
+## General Conversations.
                                                               
 # Conclusion
 Dialogflow framework can be used to train our chatbot which the user will ask in different ways. So, it is important to keep training the chatbot to improve its accuracy, fix errors and accommodate fallbacks. It is a smart bot in itself, which uses machine learning to improve itself. It constantly learns based on its interactions & training.

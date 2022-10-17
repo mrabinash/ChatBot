@@ -49,46 +49,25 @@ Actual chatbot deployment on platforms, like websites, etc. is a complicated pro
 
 Here are some demos of my Banking Chatbot WebView screenshots are attached below.
 
+![image](https://user-images.githubusercontent.com/107429918/196230520-511a3cd4-e964-4ce9-a5b1-d21e59460d2a.png)
+
+Opening a bank account.                        
 
 
-
-
-
-
-
-
-
-
-
-
-Opening a bank account.                        Checking balance.
-
-
-
-
-
-
-
-
-
-
-
+Checking balance.
 
 
 Transferring money.                      
 
 
+Processing transaction successfully.
 
 
+Checking due date of my Credit Card.
 
 
-
-
-
-
-
-
-                                                               
+General Conversations.
+                                                              
 # Conclusion
 Dialogflow framework can be used to train our chatbot which the user will ask in different ways. So, it is important to keep training the chatbot to improve its accuracy, fix errors and accommodate fallbacks. It is a smart bot in itself, which uses machine learning to improve itself. It constantly learns based on its interactions & training.
 

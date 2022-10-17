@@ -20,11 +20,13 @@ Expressions/Training Phrases are the dialogues/ utterances that we say when they
 
 ## Intent
 ‘Intents’ are how a chatbot understands Expressions. It is the simple process of grouping expressions into their one meaning, thereby making it easier to program. By using Intents, we don’t have to teach your chatbot how to respond to every Expression. Instead, we can just categorise Expressions into Intents that the bot can easily tackle. It is a lot simpler for both the developer and the chatbot this way. Ultimately, Intents determine the bot’s responses. The most accurate responses occur when a proper range of expressions have been correctly grouped into Intents. Accurate and simple responses are important traits for a good chatbot.
+![image](https://user-images.githubusercontent.com/107429918/196228525-7fd1799f-eab0-4efa-ab3a-c5feda17acb8.png)
 
  
 
 ## Entities
 ‘Entities’ are Dialogflow’s mechanism for identifying and extracting useful data from natural language inputs. Entities helps us to extract specific pieces of information from the users. This can be anything from appointment dates to bank account types or transfer types. Basically, if there is any important data we want to get from the user, we will use a corresponding entity.
+![image](https://user-images.githubusercontent.com/107429918/196228572-16ece18d-6513-4997-93d8-cd56d6353565.png)
 
 
 

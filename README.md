@@ -11,35 +11,23 @@ These are the modes used to communicate the input or the output. The user intera
 An agent is merely another term used to refer to the chatbot. This means giving our chatbot a name. ‘Agent’ refers to the processing module within the application that enables discussions with the chatbot. And sometimes, it is another way to refer to the bot since it functions ‘like a support agent’. The context will always be clear enough for us to know what they mean.
 ## Expressions
 Expressions/Training Phrases are the dialogues/ utterances that we say when they interact with a bot. They represent a user’s desire and are often in the form of a question.
+
 ![image](https://user-images.githubusercontent.com/107429918/196221062-e9d21422-52a2-49bc-a8d6-b0d05776533e.png)
-
-
-
-
-
 
 ## Intent
 ‘Intents’ are how a chatbot understands Expressions. It is the simple process of grouping expressions into their one meaning, thereby making it easier to program. By using Intents, we don’t have to teach your chatbot how to respond to every Expression. Instead, we can just categorise Expressions into Intents that the bot can easily tackle. It is a lot simpler for both the developer and the chatbot this way. Ultimately, Intents determine the bot’s responses. The most accurate responses occur when a proper range of expressions have been correctly grouped into Intents. Accurate and simple responses are important traits for a good chatbot.
+
 ![image](https://user-images.githubusercontent.com/107429918/196228525-7fd1799f-eab0-4efa-ab3a-c5feda17acb8.png)
 
- 
-
-## Entities
+ ## Entities
 ‘Entities’ are Dialogflow’s mechanism for identifying and extracting useful data from natural language inputs. Entities helps us to extract specific pieces of information from the users. This can be anything from appointment dates to bank account types or transfer types. Basically, if there is any important data we want to get from the user, we will use a corresponding entity.
+
 ![image](https://user-images.githubusercontent.com/107429918/196228572-16ece18d-6513-4997-93d8-cd56d6353565.png)
-
-
-
-
-
-
-
-
 
 ## Actions & Parameters
 These are Dialogflow mechanisms. They serve as a method to identify/annotate the keywords/values in the training phrases by connecting them with Entities. They also provide the prompts that extract information from the user. Actions allow the developer to work with code. And the work will be annotated by Dialogflow. It will recognise and link keywords/values between Parameters, Expressions and Entities.
 
- 
+
 
 # Integration
 Actual chatbot deployment on platforms, like websites, etc. is a complicated procedure that requires publishing the bot. But we can still get an idea of how the chatbot would appear when functional. Here’s how:

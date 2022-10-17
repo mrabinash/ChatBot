@@ -27,7 +27,7 @@ Expressions/Training Phrases are the dialogues/ utterances that we say when they
 ## Actions & Parameters
 These are Dialogflow mechanisms. They serve as a method to identify/annotate the keywords/values in the training phrases by connecting them with Entities. They also provide the prompts that extract information from the user. Actions allow the developer to work with code. And the work will be annotated by Dialogflow. It will recognise and link keywords/values between Parameters, Expressions and Entities.
 
-
+![Uploading image.png…]()
 
 # Integration
 Actual chatbot deployment on platforms, like websites, etc. is a complicated procedure that requires publishing the bot. But we can still get an idea of how the chatbot would appear when functional. Here’s how:
